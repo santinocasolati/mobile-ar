@@ -31,3 +31,5 @@ sysinfo.txt
 crashlytics-build.properties
 
 Packages/com.ptc.vuforia.engine-*.tgz
+
+Assets/Resources/PerformanceTestRun*
